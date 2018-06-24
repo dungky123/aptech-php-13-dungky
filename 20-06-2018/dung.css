@@ -1,0 +1,22 @@
+.nav-link{
+    list-style: none;
+    color: aliceblue;
+}
+.site-heading{
+    text-align: center;
+    color: aliceblue;
+}
+.container{
+    background-image: url(http://taimienphi.vn/tmp/cf/aut/nhung-hinh-anh-dep-2.jpg);
+    height: 250px;
+}
+.post{
+    font-size: 45px;
+    margin-top: 30px;
+}
+.post-title{
+    font-size: 1.75rem;
+    line-height: 1.2;
+}
+
+
